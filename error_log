@@ -1,0 +1,325 @@
+[27-Nov-2015 23:27:23 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/birdsayc/public_html/lol/uploader.php on line 9
+[27-Nov-2015 23:34:38 UTC] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/birdsayc/public_html/lol/uploader.php on line 19
+[27-Nov-2015 23:34:38 UTC] PHP Warning:  move_uploaded_file(http://birdsay.com/lol/fotos/upload/avatar.jpg): failed to open stream: no suitable wrapper could be found in /home/birdsayc/public_html/lol/uploader.php on line 19
+[27-Nov-2015 23:34:38 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOMqvPj' to 'http://birdsay.com/lol/fotos/upload/avatar.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 19
+[27-Nov-2015 23:35:16 UTC] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/birdsayc/public_html/lol/uploader.php on line 19
+[27-Nov-2015 23:35:16 UTC] PHP Warning:  move_uploaded_file(http://birdsay.com/lol/fotos/upload/avatar.jpg): failed to open stream: no suitable wrapper could be found in /home/birdsayc/public_html/lol/uploader.php on line 19
+[27-Nov-2015 23:35:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9kVzCG' to 'http://birdsay.com/lol/fotos/upload/avatar.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 19
+[01-Dec-2015 19:18:49 UTC] PHP Warning:  imagecreatefromjpeg(./?d=1234): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:18:49 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 19
+[01-Dec-2015 19:18:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 20
+[01-Dec-2015 19:20:13 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:20:13 UTC] PHP Warning:  imagecreatefromjpeg(): './' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:20:13 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:20:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:13) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:21:48 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:21:48 UTC] PHP Warning:  imagecreatefromjpeg(): './' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:21:48 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:21:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:13) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:22:07 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:22:07 UTC] PHP Warning:  imagecreatefromjpeg(): './' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:22:07 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:22:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:13) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:23:21 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:23:21 UTC] PHP Warning:  imagecreatefromjpeg(): './' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:23:21 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:23:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:13) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:23:54 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:23:54 UTC] PHP Warning:  imagecreatefromjpeg(): '/' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:23:54 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:23:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:25:01 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:25:01 UTC] PHP Warning:  imagecreatefromjpeg(): '/' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:25:01 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:25:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:28:15 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:28:15 UTC] PHP Warning:  imagecreatefromjpeg(): '/' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:28:15 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:28:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:29:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:29:44 UTC] PHP Warning:  imagecreatefromjpeg(): '/' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:29:44 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:29:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:30:09 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:30:09 UTC] PHP Warning:  imagecreatefromjpeg(): '/' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:30:09 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:30:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:32:30 UTC] PHP Warning:  imagecreatefromjpeg(/fotos/upload/Ua68Bosy4RmrVWOAnYo0iM5e7heTHnZ2Kkdlh1dJqfcmCgtXbjvGPNmgzukj3pl9ercfpLonjErqDQgxlifqdIcwpSkFhi.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:32:30 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:32:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:34:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:41:38 UTC] PHP Warning:  imagecreatefromjpeg(/fotos/upload/kWjhiTxdoDXe3gnfj2c8oKdhkmqgfcPgMrzBQplRbquphEmoktdcYiIy4wlNn05UeL6AarS1eFHmrZqvCVfslJnj9p7iOG.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/crop.php on line 13
+[01-Dec-2015 19:41:38 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 19:41:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:42:24 UTC] PHP Warning:  imagecreatefromjpeg(/fotos/upload/kWjhiTxdoDXe3gnfj2c8oKdhkmqgfcPgMrzBQplRbquphEmoktdcYiIy4wlNn05UeL6AarS1eFHmrZqvCVfslJnj9p7iOG.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/crop.php on line 14
+[01-Dec-2015 19:42:24 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:42:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 18
+[01-Dec-2015 19:42:32 UTC] PHP Warning:  imagecreatefromjpeg(/fotos/upload/kWjhiTxdoDXe3gnfj2c8oKdhkmqgfcPgMrzBQplRbquphEmoktdcYiIy4wlNn05UeL6AarS1eFHmrZqvCVfslJnj9p7iOG.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/crop.php on line 14
+[01-Dec-2015 19:42:32 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:42:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 18
+[01-Dec-2015 19:42:57 UTC] PHP Warning:  imagecreatefromjpeg(/fotos/upload/kWjhiTxdoDXe3gnfj2c8oKdhkmqgfcPgMrzBQplRbquphEmoktdcYiIy4wlNn05UeL6AarS1eFHmrZqvCVfslJnj9p7iOG.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/crop.php on line 14
+[01-Dec-2015 19:42:57 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 17
+[01-Dec-2015 19:42:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 18
+[01-Dec-2015 19:43:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 18
+[01-Dec-2015 19:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:6) in /home/birdsayc/public_html/lol/crop.php on line 18
+[01-Dec-2015 20:31:37 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[01-Dec-2015 20:31:37 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/flYnE9qoyjJamvlopDZ3iKtASzGTUgF4kjmqdI7lPosCmfkxhdkwpNcugOecch0X2QMj8eR6bnV1riBnLdiepfrHW5hqrg.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[01-Dec-2015 20:31:37 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[01-Dec-2015 20:31:37 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[01-Dec-2015 20:31:37 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[01-Dec-2015 20:31:37 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[01-Dec-2015 20:31:52 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[01-Dec-2015 20:31:52 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/flYnE9qoyjJamvlopDZ3iKtASzGTUgF4kjmqdI7lPosCmfkxhdkwpNcugOecch0X2QMj8eR6bnV1riBnLdiepfrHW5hqrg.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[01-Dec-2015 20:31:52 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[01-Dec-2015 20:31:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 20:59:28 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/birdsayc/public_html/lol/uploader.php on line 15
+[01-Dec-2015 21:29:11 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/birdsayc/public_html/lol/uploader.php on line 15
+[01-Dec-2015 21:39:21 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[01-Dec-2015 21:39:21 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/jpjDLfrb4cXkZk0SMAdVCnnW5oumwiTxjcklo6ihH3dt2eo9qEeKeOPf1FUqaggfpv7pzryJhYlGcBdmmlsgIQr8qiRnNh.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[01-Dec-2015 21:39:21 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[01-Dec-2015 21:39:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 21:39:29 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[01-Dec-2015 21:39:29 UTC] PHP Warning:  imagecreatefromjpeg(): './' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[01-Dec-2015 21:39:29 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[01-Dec-2015 21:39:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[01-Dec-2015 21:39:29 UTC] PHP Warning:  imagejpeg(./): failed to open stream: Is a directory in /home/birdsayc/public_html/lol/crop.php on line 17
+[02-Dec-2015 03:33:29 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:29 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:29 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:29 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:29 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:29 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:33 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:33 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:33 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:33 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:33 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:33 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:35 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:36 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/YkpmjKognjcw6uWnhgmqSem2qcxBFfe01ljldrkRvbNCOUrnylLAgdcGrTEz9oaphMtIds4pX5ei7qiZffQi3oDJ8PHhkV.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 03:33:37 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 23:08:42 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 23:08:42 UTC] PHP Warning:  imagecreatefromjpeg(): 'fotos/upload/zIiNTPrwnkkmq9frXUDrEoiW2kdlFhtA4n0piejmcGmqpjQRuggOgbH3VcBxdsoY75hhnlZjyvdfoeqce8L1MfCSaK6Jlp.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/rotarImg.php on line 14
+[02-Dec-2015 23:08:42 UTC] PHP Warning:  imagerotate() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 17
+[02-Dec-2015 23:08:42 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 23
+[02-Dec-2015 23:08:42 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 28
+[02-Dec-2015 23:08:42 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/birdsayc/public_html/lol/rotarImg.php on line 29
+[02-Dec-2015 23:09:00 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[02-Dec-2015 23:09:00 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/zIiNTPrwnkkmq9frXUDrEoiW2kdlFhtA4n0piejmcGmqpjQRuggOgbH3VcBxdsoY75hhnlZjyvdfoeqce8L1MfCSaK6Jlp.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[02-Dec-2015 23:09:00 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[02-Dec-2015 23:09:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[05-Dec-2015 11:13:13 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[05-Dec-2015 11:13:13 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/e8Lrfqcupwgn7DjhgkcQncJrOpvjSlmnVZ3qqmFoTbhitXdkB1UI5MKofaefgihdrYsC4o0AiE2jkHmlWNxdp9R6yzGleP.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[05-Dec-2015 11:13:13 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[05-Dec-2015 11:13:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[05-Dec-2015 11:17:12 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[05-Dec-2015 11:17:12 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/gRkCl6uhUAHTiqO5GbizwFxlESdVnshcmXdporcjBYMefdkIhLi0envckoalWn47tKjJ9QrZgfjmqq2fNpPoe3yDgprm81.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[05-Dec-2015 11:17:12 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[05-Dec-2015 11:17:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[14-Mar-2016 06:13:26 UTC] PHP Warning:  move_uploaded_file(fotos/upload/gfbhkcGml8Mrpri4kumkl1HKf3ABjVDtQqo0jopsF6PCd9mYghddeaWjURolyx2cqricw5iEqeSOhpgXZfNnLJzTIn7nve.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/uploader.php on line 24
+[14-Mar-2016 06:13:26 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsvgYM6' to 'fotos/upload/gfbhkcGml8Mrpri4kumkl1HKf3ABjVDtQqo0jopsF6PCd9mYghddeaWjURolyx2cqricw5iEqeSOhpgXZfNnLJzTIn7nve.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 24
+[14-Mar-2016 06:13:41 UTC] PHP Warning:  move_uploaded_file(fotos/upload/A5iy9rvrjWelokecQnogpolpM1eT4pNmFznB7fjcd0mRhqCkb3xfgidc8XPafGVHEq6gnYUmtkZrsKIiwhh2jLdSuOJlDq.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/uploader.php on line 24
+[14-Mar-2016 06:13:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMpBWbF' to 'fotos/upload/A5iy9rvrjWelokecQnogpolpM1eT4pNmFznB7fjcd0mRhqCkb3xfgidc8XPafGVHEq6gnYUmtkZrsKIiwhh2jLdSuOJlDq.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:34:15 UTC] PHP Warning:  move_uploaded_file(fotos/upload/nVhm6zF4pKG3f5bil8Uhno1rRgCaudXwqZ9cHBfYqmp7gjEL2vlDxWypioMckdAmrcinQtdhN0rkfeTOegjPkqesJSjloI.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:34:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZlJaJg' to 'fotos/upload/nVhm6zF4pKG3f5bil8Uhno1rRgCaudXwqZ9cHBfYqmp7gjEL2vlDxWypioMckdAmrcinQtdhN0rkfeTOegjPkqesJSjloI.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:34:55 UTC] PHP Warning:  move_uploaded_file(fotos/upload/5oApKWMincokqH3idlmD7nbhjcpdhFrmvLJuBefgaCX21qUTtgfjf6kiRx4pYlZOmnNQ0VSg9hosrElwekryzqIec8jPGd.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:34:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0WonDq' to 'fotos/upload/5oApKWMincokqH3idlmD7nbhjcpdhFrmvLJuBefgaCX21qUTtgfjf6kiRx4pYlZOmnNQ0VSg9hosrElwekryzqIec8jPGd.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:36:19 UTC] PHP Warning:  move_uploaded_file(fotos/upload/ffipX1N9gTyhBrtPiAMm7RFZKgLS3lf4HehmdCu2chlGmOQn6qjedkIp5UgekVnYoqEJakzpdnrbwxjWiojoslvrc8Dqc0.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:36:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9vUMz4' to 'fotos/upload/ffipX1N9gTyhBrtPiAMm7RFZKgLS3lf4HehmdCu2chlGmOQn6qjedkIp5UgekVnYoqEJakzpdnrbwxjWiojoslvrc8Dqc0.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:36:43 UTC] PHP Warning:  move_uploaded_file(fotos/upload/plQKVkjOs0gbhINddomvMZxdEf3XHlengcRcBhPrqWiopk96antUukn5mCl4gJ7qiq8e2zhyjejwTfDLFmGcrYprSfo1iA.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:36:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpq1VIpX' to 'fotos/upload/plQKVkjOs0gbhINddomvMZxdEf3XHlengcRcBhPrqWiopk96antUukn5mCl4gJ7qiq8e2zhyjejwTfDLFmGcrYprSfo1iA.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:37:41 UTC] PHP Warning:  move_uploaded_file(fotos/upload/UeKCMWSnmgiIeJcLVPihGvimrfc0kqakjhdwnqpEQkd8jzAerfNglY7HZbRpfgT6nr95lu3sxoXptFoqm4ydBOoh1lj2Dc.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:37:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbK4ylh' to 'fotos/upload/UeKCMWSnmgiIeJcLVPihGvimrfc0kqakjhdwnqpEQkd8jzAerfNglY7HZbRpfgT6nr95lu3sxoXptFoqm4ydBOoh1lj2Dc.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:40:40 UTC] PHP Warning:  move_uploaded_file(fotos/upload/dhcOHwniodfq03kuneh6ilI9Y8ilFC5Tkhp4rJqmLvrr1eNmRMU2mlfpaz7joKGoAQWejZsVBDjdXEfggqcgSnbtpkcyPx.jpg): failed to open stream: No such file or directory in /home/birdsayc/public_html/lol/uploader.php on line 24
+[07-Apr-2016 02:40:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaBSNBE' to 'fotos/upload/dhcOHwniodfq03kuneh6ilI9Y8ilFC5Tkhp4rJqmLvrr1eNmRMU2mlfpaz7joKGoAQWejZsVBDjdXEfggqcgSnbtpkcyPx.jpg' in /home/birdsayc/public_html/lol/uploader.php on line 24
+[16-Apr-2016 16:40:46 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[16-Apr-2016 16:40:46 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/yZomurq2gUlfcMoFKRQLDpjd3khJqjOxhcGfnmYemw1zrCXBng7efpv0td5Neor4aiAnW8ciqpIsTiH6Eh9bdlkkjSglVP.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[16-Apr-2016 16:40:46 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[16-Apr-2016 16:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[16-Apr-2016 21:53:05 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/birdsayc/public_html/lol/uploader.php on line 15
+[25-Apr-2016 14:30:43 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[25-Apr-2016 14:30:43 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/mfnE2FdhugieCalkBMcLDcTicJAQ5VvSItirn9jxfq6m3Opq740qdZNPpReKbYlfhjGHyXgWkk1de8gzsUlhmwporjorno.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[25-Apr-2016 14:30:43 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[25-Apr-2016 14:30:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[25-Apr-2016 14:31:08 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/birdsayc/public_html/lol/uploader.php on line 15
+[25-Apr-2016 14:31:33 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/lol/crop.php on line 12
+[25-Apr-2016 14:31:33 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/wED5AidxkemenrWkXupBg23dFjacjhr1fKIkYNVRZTy7oficz8nejJlofgpndQChq6rtqGm0vmip9PMsUhcglLlbHqS4oO.jpg' is not a valid JPEG file in /home/birdsayc/public_html/lol/crop.php on line 12
+[25-Apr-2016 14:31:33 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/lol/crop.php on line 15
+[25-Apr-2016 14:31:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/lol/crop.php:12) in /home/birdsayc/public_html/lol/crop.php on line 16
+[05-May-2016 17:10:06 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 48
+[05-May-2016 17:23:42 UTC] PHP Warning:  include(ts.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/home.php on line 6
+[05-May-2016 17:23:42 UTC] PHP Warning:  include(ts.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/home.php on line 6
+[05-May-2016 17:23:42 UTC] PHP Warning:  include(): Failed opening 'ts.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/birdsayc/public_html/v2/home.php on line 6
+[05-May-2016 17:24:10 UTC] PHP Warning:  include(ts.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/home.php on line 6
+[05-May-2016 17:24:10 UTC] PHP Warning:  include(ts.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/home.php on line 6
+[05-May-2016 17:24:10 UTC] PHP Warning:  include(): Failed opening 'ts.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/birdsayc/public_html/v2/home.php on line 6
+[05-May-2016 17:24:23 UTC] PHP Warning:  include(ts.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/home.php on line 7
+[05-May-2016 17:24:23 UTC] PHP Warning:  include(ts.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/home.php on line 7
+[05-May-2016 17:24:23 UTC] PHP Warning:  include(): Failed opening 'ts.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/birdsayc/public_html/v2/home.php on line 7
+[05-May-2016 17:24:38 UTC] PHP Warning:  include(ts.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/home.php on line 7
+[05-May-2016 17:24:38 UTC] PHP Warning:  include(ts.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/home.php on line 7
+[05-May-2016 17:24:38 UTC] PHP Warning:  include(): Failed opening 'ts.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/birdsayc/public_html/v2/home.php on line 7
+[05-May-2016 17:28:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:28:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:28:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:29:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:31:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:32:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:32:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:33:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 12:34:21 America/Mexico_City] PHP Warning:  getimagesize(): Filename cannot be empty in /home/birdsayc/public_html/v2/uploaderLogo.php on line 17
+[05-May-2016 17:41:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:42:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:45:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 17:47:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/index.php on line 2
+[05-May-2016 18:23:26 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/v2/crop.php on line 13
+[05-May-2016 18:23:26 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/fBnIeScoVeNulR6mZLwkkj2XqcAsrdTnKthgiqe1cYipzfo4orUpvd9nmfgMmHPJ8dEkajDbp7ihhQ5CyWjFGOg0xq3llr.jpg' is not a valid JPEG file in /home/birdsayc/public_html/v2/crop.php on line 13
+[05-May-2016 18:23:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/v2/crop.php on line 16
+[05-May-2016 18:23:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/v2/crop.php:13) in /home/birdsayc/public_html/v2/crop.php on line 17
+[05-May-2016 18:26:12 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 48
+[05-May-2016 18:26:49 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:26:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:27:57 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:27:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:28:09 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:28:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:28:42 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:28:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:29:32 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:29:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/birdsayc/public_html/v2/home.php:6) in /home/birdsayc/public_html/v2/login.php on line 2
+[05-May-2016 18:31:00 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 48
+[06-May-2016 01:08:38 UTC] PHP Warning:  include(save.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/proceso.php on line 253
+[06-May-2016 01:08:38 UTC] PHP Warning:  include(save.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/proceso.php on line 253
+[06-May-2016 01:08:38 UTC] PHP Warning:  include(): Failed opening 'save.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/birdsayc/public_html/v2/proceso.php on line 253
+[06-May-2016 01:11:33 UTC] PHP Warning:  include(save.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/proceso.php on line 253
+[06-May-2016 01:11:33 UTC] PHP Warning:  include(save.php): failed to open stream: No such file or directory in /home/birdsayc/public_html/v2/proceso.php on line 253
+[06-May-2016 01:11:33 UTC] PHP Warning:  include(): Failed opening 'save.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/birdsayc/public_html/v2/proceso.php on line 253
+[06-May-2016 01:34:32 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/v2/crop.php on line 13
+[06-May-2016 01:34:32 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/fpbDeoghGsnnfkngqqz9jp7BLVccohlYMOmd5fi83ki2jmeRwm1UlPuqjoydNJ4vxkS0FchdgEZtTIaHXrrpArlei6CKWQ.jpg' is not a valid JPEG file in /home/birdsayc/public_html/v2/crop.php on line 13
+[06-May-2016 01:34:32 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/v2/crop.php on line 16
+[06-May-2016 01:34:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/v2/crop.php:13) in /home/birdsayc/public_html/v2/crop.php on line 17
+[06-May-2016 23:19:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 48
+[08-May-2016 04:11:03 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 48
+[08-May-2016 04:13:31 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/birdsayc/public_html/v2/uploader.php on line 15
+[08-May-2016 14:30:02 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 48
+[08-May-2016 14:34:40 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/v2/crop.php on line 15
+[08-May-2016 14:34:40 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/kxjlcUEpkdmeSpJ2FjGqmI9grfnDVLAicel4Qg1eofoujfnd3hC6mkY7T5H0KwaBWtPpMrq8RdiglhnrOibhsyZqcvXNzo.jpg' is not a valid JPEG file in /home/birdsayc/public_html/v2/crop.php on line 15
+[08-May-2016 14:34:40 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/v2/crop.php on line 18
+[08-May-2016 14:34:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/v2/crop.php:15) in /home/birdsayc/public_html/v2/crop.php on line 19
+[09-May-2016 15:33:38 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 48
+[09-May-2016 15:55:26 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/v2/crop.php on line 15
+[09-May-2016 15:55:26 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/d43hohDienZ8Uip5qmnBOCSmoVkwpjfYfFGIgrWlcN2KjqjzpdMxsAfqJnelatkQkudb7RHev9rc10rm6ThyoiLXglcPEg.jpg' is not a valid JPEG file in /home/birdsayc/public_html/v2/crop.php on line 15
+[09-May-2016 15:55:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/v2/crop.php on line 18
+[09-May-2016 15:55:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/v2/crop.php:15) in /home/birdsayc/public_html/v2/crop.php on line 19
+[09-May-2016 16:20:07 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 48
+[09-May-2016 22:47:59 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/v2/crop.php on line 15
+[09-May-2016 22:47:59 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/d2TFhqmjkZrIWmjlXqz4e8BlikpSxnJdgcnmCjohsM0dG6E1hcagpkteivVN9ARwO5uYgb7lKqrrfoiLfcPnHeypDf3QoU.jpg' is not a valid JPEG file in /home/birdsayc/public_html/v2/crop.php on line 15
+[09-May-2016 22:47:59 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/v2/crop.php on line 18
+[09-May-2016 22:47:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/v2/crop.php:15) in /home/birdsayc/public_html/v2/crop.php on line 19
+[11-May-2016 04:39:19 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/birdsayc/public_html/v2/crop.php on line 15
+[11-May-2016 04:39:19 UTC] PHP Warning:  imagecreatefromjpeg(): './fotos/upload/yKuremmJhq8ioPrtSsInqglqhXrmipbkl7TW0wApcYlRHnFOcdLfEBcjDzk2164vfap5jeVodMUgojGheQfNxZCn3g9kid.jpg' is not a valid JPEG file in /home/birdsayc/public_html/v2/crop.php on line 15
+[11-May-2016 04:39:19 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/birdsayc/public_html/v2/crop.php on line 18
+[11-May-2016 04:39:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/birdsayc/public_html/v2/crop.php:15) in /home/birdsayc/public_html/v2/crop.php on line 19
+[28-Jul-2016 22:08:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'birdsayc_rosenvb'@'localhost' (using password: YES) in /home/birdsayc/public_html/v2/con_phobet.php on line 3
+[28-Jul-2016 22:08:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 11
+[28-Jul-2016 22:09:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'birdsayc_rosenvb'@'localhost' (using password: YES) in /home/birdsayc/public_html/v2/con_phobet.php on line 3
+[28-Jul-2016 22:09:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/birdsayc/public_html/v2/inicio_sesion.php on line 11
